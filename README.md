@@ -9,7 +9,7 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <div align="center">
 <br>  
 	
-![spotify-github-profile](/novatorem.svg) &nbsp;&nbsp;&nbsp; 
+![spotify-github-profile](/novatorem.svg) &nbsp;&nbsp;&nbsp;  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mitsumisiemens"/>
 	
 </div>
 
